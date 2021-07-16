@@ -8,6 +8,7 @@ tags:
   - Buildings
   - Heat
 layout: splash
+read_time: false
 ---
 This map of waste heat source potential in Dublin was created with the help of: 
 

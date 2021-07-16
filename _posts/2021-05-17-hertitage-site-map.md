@@ -7,6 +7,7 @@ tags:
   - Bokeh
   - Buildings
 layout: splash
+read_time: false
 ---
 This map of Heritage Buildings was created using two open-access datasets from the `National Inventory of Architectural Heritage` and the `Sites and Monuments Record (SMR)`. 
 

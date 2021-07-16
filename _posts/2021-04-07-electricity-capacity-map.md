@@ -7,6 +7,7 @@ tags:
   - Bokeh
   - Electricity
 layout: splash
+read_time: false
 ---
 A map of Medium Voltage (MV) substation clusters.  Created by grouping similarly located MV substations using data from the [ESB Substation Capacity
 map](https://www.esbnetworks.ie/network-capacity-map)

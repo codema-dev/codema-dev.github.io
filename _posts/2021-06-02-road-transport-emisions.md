@@ -7,6 +7,7 @@ tags:
   - Bokeh
   - Transport
 layout: splash
+read_time: false
 ---
 This map is based on the outputs of the `National Transport Authority of Ireland` (NTA) model, which was provided to `Codema - Dublin's Energy Agency` upon special request. 
 

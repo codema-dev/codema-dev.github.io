@@ -7,6 +7,7 @@ tags:
   - Bokeh
   - Buildings
 layout: splash
+read_time: false
 ---
 This map of Housing Percentage Ownership  was created using the open-access Small-Area Population Statistics (SAPS) 2016, provided to `Codema - Dublin's Energy Agency` by the `Central Statistics Office (CSO)`. 
 

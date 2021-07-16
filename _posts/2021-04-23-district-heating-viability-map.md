@@ -8,6 +8,7 @@ tags:
   - Buildings
   - Heat
 layout: splash
+read_time: false
 ---
 This map was created by using SEAI's small-level BER data (`07/2020`), Monitoring & Reporting annual gas demands (`2018`) & the Valuation Office's floor areas (`2015`)
 
