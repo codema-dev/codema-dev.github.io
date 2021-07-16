@@ -1,7 +1,7 @@
 ---
 title: "Dublin Local Authority Zones"
 categories:
-  - MyPlan Zoning Map Viewer
+  - map
 tags:
   - link
   - myplan
