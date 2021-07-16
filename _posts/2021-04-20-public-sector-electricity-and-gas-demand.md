@@ -9,7 +9,7 @@ tags:
 layout: splash
 ---
 Meter Point Reference Number (MPRN) & Gas Point Reference Number (GPRN) data for all Dublin public sector buildings. 
-<div class="glitch-embed-wrap" style="height: 420px; width: 100%;">
+<div class="glitch-embed-wrap" style="height: 2000px; width: 100%;">
   <iframe
     src="https://glitch.com/embed/#!/embed/dublin-monitoring-and-reporting?path=metadata.json&previewSize=100"
     title="dublin-monitoring-and-reporting on Glitch"
