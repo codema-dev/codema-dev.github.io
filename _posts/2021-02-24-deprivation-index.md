@@ -1,6 +1,6 @@
 ---
 title: "Dublin Deprivation Index"
-date: 2021-05-18
+date: 2021-02-24
 categories:
   - map
 tags:
