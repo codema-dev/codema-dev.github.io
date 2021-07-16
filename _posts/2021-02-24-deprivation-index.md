@@ -1,5 +1,5 @@
 ---
-title: "Dublin Deprivation Index"
+title: "Deprivation Index"
 date: 2021-02-24
 categories:
   - map

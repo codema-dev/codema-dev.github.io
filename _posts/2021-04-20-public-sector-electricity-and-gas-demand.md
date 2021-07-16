@@ -1,5 +1,5 @@
 ---
-title: "Dublin Public Sector Electricity & Gas Demand"
+title: "Public Sector Electricity & Gas Demand"
 date: 2021-04-07
 categories:
   - data

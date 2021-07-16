@@ -1,5 +1,5 @@
 ---
-title: "Dublin Local Authority Zones"
+title: "Local Authority Zones"
 categories:
   - map
 tags:

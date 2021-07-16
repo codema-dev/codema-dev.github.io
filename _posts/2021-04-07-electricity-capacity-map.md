@@ -1,5 +1,5 @@
 ---
-title: "Dublin Medium Voltage Substation Capacity Map"
+title: "Substation Capacity Map"
 date: 2021-04-07
 categories:
   - map

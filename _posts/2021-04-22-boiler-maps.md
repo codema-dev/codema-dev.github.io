@@ -1,5 +1,5 @@
 ---
-title: "Dublin Small Area Boiler Map"
+title: "Boiler Map"
 date: 2021-04-22
 categories:
   - map

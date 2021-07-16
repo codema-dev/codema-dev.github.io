@@ -1,5 +1,5 @@
 ---
-title: "Dublin Heritage Buildings"
+title: "Heritage Buildings"
 date: 2021-05-17
 categories:
   - map
