@@ -15,7 +15,5 @@ map](https://www.esbnetworks.ie/network-capacity-map)
 systematically underestimate availability. If these were included all zones other than Dun Laoghaire Rathdown would
 likely be close to zero.
 
-<div class="capacity-map">
-    <object width="1500" height="2500" frameborder="0" type="text/html"
+<object width="100%" height="100%" frameborder="0" type="text/html"
         data="/assets/html/substations_clustered_to_10_points.html"></object>
-</div>
