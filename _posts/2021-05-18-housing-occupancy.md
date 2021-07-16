@@ -1,5 +1,5 @@
 ---
-title: "Dublin Housing Ownership"
+title: "Dublin Housing Occupancy"
 date: 2021-05-18
 categories:
   - map
