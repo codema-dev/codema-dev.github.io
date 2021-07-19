@@ -11,5 +11,10 @@ read_time: false
 ---
 This map of Heritage Buildings was created using two open-access datasets from the `National Inventory of Architectural Heritage` and the `Sites and Monuments Record (SMR)`. 
 
-<object width="100%" height="60" frameborder="0" type="text/html"
-        data="/assets/html/heritage_buildings.html"></object>
+<div style="height: 750px; width: 100%;">
+  <iframe
+    type="text/html"
+    src="{{ site.baseurl }}/assets/html/heritage_buildings.html"
+    style="height: 100%; width: 100%; border: 0;">
+  </iframe>
+</div>

@@ -16,5 +16,10 @@ This map was created by using SEAI's small-level BER data (`07/2020`), Monitorin
 
 <script src="https://gist.github.com/rdmolony/23224c5defdcd63d2c020e779d913fcf.js"></script>
 
-<object width="100%" height="100%" frameborder="0" type="text/html"
-        data="/assets/html/district_heating_viability.html"></object>
+<div style="height: 1250px; width: 100%;">
+  <iframe
+    type="text/html"
+    src="{{ site.baseurl }}/assets/html/district_heating_viability.html"
+    style="height: 100%; width: 100%; border: 0;">
+  </iframe>
+</div>

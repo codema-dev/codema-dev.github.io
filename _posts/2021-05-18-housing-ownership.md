@@ -13,5 +13,10 @@ This map of Housing Percentage Ownership  was created using the open-access Smal
 
 > Ownership was calculated by dividing the total number of dwellings rented or loaned (`T6_3_OMLH":"Owned with mortgage or loan"`) by the total number of dwellings (`"T6_3_TH":"Total"`).  The colourbar legend represents percentage ownership of the housing stock where red and green indicate a higher and lower ownership respectively. 
 
-<object width="100%" height="100%" frameborder="0" type="text/html"
-        data="/assets/html/small_area_housing_ownership.html"></object>
+<div style="height: 1250px; width: 100%;">
+  <iframe
+    type="text/html"
+    src="{{ site.baseurl }}/assets/html/small_area_housing_ownership.html"
+    style="height: 100%; width: 100%; border: 0;">
+  </iframe>
+</div>
