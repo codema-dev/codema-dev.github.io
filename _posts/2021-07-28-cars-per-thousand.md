@@ -1,6 +1,6 @@
 ---
 title: "Car Ownership Per 1000 Adults"
-date: 2021-07-28
+date: 2021-07-25
 categories:
   - map
 tags:
@@ -9,12 +9,6 @@ tags:
 layout: splash
 read_time: false
 ---
-Census 2016 data was used for the calculations in this map.
+This map of car ownership was created using data from the 2016 Census provided by the CSO
 
-<div style="height: 600px; width: 100%;">
-  <iframe
-    type="text/html"
-    src="{{ site.baseurl }}/_includes/rail_emissions.html"
-    style="height: 100%; width: 100%; border: 0;">
-  </iframe>
-</div>
+{% include cars_per_1000_adults_dublin_2016.html %}
