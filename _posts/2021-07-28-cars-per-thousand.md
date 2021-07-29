@@ -1,0 +1,14 @@
+---
+title: "Car Ownership Per 1000 Adults"
+date: 2021-07-25
+categories:
+  - map
+tags:
+  - Bokeh
+  - Transport
+layout: splash
+read_time: false
+---
+This map of car ownership was created using data from the 2016 Census provided by the CSO
+
+{% include cars_per_1000_adults_dublin_2016.html %}
