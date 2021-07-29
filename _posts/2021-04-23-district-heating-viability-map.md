@@ -1,5 +1,5 @@
 ---
-title: "District Heating Viability"
+title: "District Heating Viability v1"
 date: 2021-04-23
 categories:
   - map
@@ -16,10 +16,4 @@ This map was created by using SEAI's small-level BER data (`07/2020`), Monitorin
 
 <script src="https://gist.github.com/rdmolony/23224c5defdcd63d2c020e779d913fcf.js"></script>
 
-<div style="height: 1250px; width: 100%;">
-  <iframe
-    type="text/html"
-    src="{{ site.baseurl }}/assets/html/district_heating_viability.html"
-    style="height: 100%; width: 100%; border: 0;">
-  </iframe>
-</div>
+{% include 2021-04-23-district-heating-viability-map-v1.html %}

@@ -11,4 +11,4 @@ read_time: false
 ---
 This map of car ownership was created using data from the 2016 Census provided by the CSO
 
-{% include cars_per_1000_adults_dublin_2016.html %}
+{% include 2021-07-28-cars-per-thousand.html %}

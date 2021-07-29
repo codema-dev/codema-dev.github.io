@@ -16,10 +16,4 @@ map](https://www.esbnetworks.ie/network-capacity-map)
 systematically underestimate availability. If these were included all zones other than Dun Laoghaire Rathdown would
 likely be close to zero.
 
-<div style="height: 1250px; width: 100%;">
-  <iframe
-    type="text/html"
-    src="{{ site.baseurl }}/assets/html/substations_clustered_to_10_points.html"
-    style="height: 100%; width: 100%; border: 0;">
-  </iframe>
-</div>
+{% include 2021-04-07-electricity-capacity-map.html %}
