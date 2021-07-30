@@ -10,7 +10,9 @@ tags:
 layout: splash
 read_time: false
 ---
-These maps were created using SEAI's small-level BER data (`05/2021`) & the Valuation Office's floor areas (`2021`).  The code used to generate them is open-source and available [here](https://github.com/codema-dev/projects), however, as the data is closed-access they are not reproducible without access to the underlying data. 
+These maps were created using SEAI's small-level BER data (`05/2021`) & the Valuation Office's floor areas (`2021`).  The code used to generate them is open-source and available [here](https://github.com/codema-dev/projects), however, as the data is closed-access they are not reproducible without access to the underlying data.
+
+[dublin_small_area_demand_tj_per_km2.geojson](/assets/data/2021-07-22-district-heating-viability-map-v2/dublin_small_area_demand_tj_per_km2.geojson)
 
 ## Dublin City
 
