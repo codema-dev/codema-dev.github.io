@@ -12,47 +12,40 @@ read_time: false
 ---
 These maps were created using SEAI's small-level BER data (`05/2021`) & the Valuation Office's floor areas (`2021`).  The code used to generate them is open-source and available [here](https://github.com/codema-dev/projects), however, as the data is closed-access they are not reproducible without access to the underlying data.
 
-[dublin_small_area_demand_tj_per_km2.geojson](/assets/data/2021-07-22-district-heating-viability-map-v2/dublin_small_area_demand_tj_per_km2.geojson)
+[dublin_small_area_demand_tj_per_km2.geojson](https://codema-dev.s3.eu-west-1.amazonaws.com/dublin_small_area_demand_tj_per_km2.geojson)
 
 ## Dublin City
 
 {% include 2021-07-22-district-heating-viability-map-v2/tables/Dublin-City.html %}
 
-[tables/Dublin-City.png](/assets/images/2021-07-22-district-heating-viability-map-v2/tables/Dublin-City.png)
 
 {% include 2021-07-22-district-heating-viability-map-v2/maps/Dublin-City.html %}
 
-[maps/Dublin-City.png](/assets/images/2021-07-22-district-heating-viability-map-v2/maps/Dublin-City.png)
+[Dublin-City.jpg](/assets/images/2021-07-22-district-heating-viability-map-v2/Dublin-City.jpg)
 
 ## Dún Laoghaire-Rathdown
 
 {% include 2021-07-22-district-heating-viability-map-v2/tables/Dun-Laoghaire-Rathdown.html %}
 
-[tables/Dun-Laoghaire-Rathdown.png](/assets/images/2021-07-22-district-heating-viability-map-v2/tables/Dun-Laoghaire-Rathdown.png)
-
 {% include 2021-07-22-district-heating-viability-map-v2/maps/Dun-Laoghaire-Rathdown.html %}
 
-[maps/Dun-Laoghaire-Rathdown.png](/assets/images/2021-07-22-district-heating-viability-map-v2/maps/Dun-Laoghaire-Rathdown.png)
+[Dun-Laoghaire-Rathdown.jpg](/assets/images/2021-07-22-district-heating-viability-map-v2/Dun-Laoghaire-Rathdown.jpg)
 
 ## Fingal
 
 {% include 2021-07-22-district-heating-viability-map-v2/tables/Fingal.html %}
 
-[tables/Fingal.png](/assets/images/2021-07-22-district-heating-viability-map-v2/tables/Fingal.png)
-
 {% include 2021-07-22-district-heating-viability-map-v2/maps/Fingal.html %}
 
-[maps/Fingal.png](/assets/images/2021-07-22-district-heating-viability-map-v2/maps/Fingal.png)
+[Fingal.jpg](/assets/images/2021-07-22-district-heating-viability-map-v2/Fingal.jpg)
 
 ## South Dublin
 
 {% include 2021-07-22-district-heating-viability-map-v2/tables/South-Dublin.html %}
 
-[tables/South-Dublin.png](/assets/images/2021-07-22-district-heating-viability-map-v2/tables/South-Dublin.png)
-
 {% include 2021-07-22-district-heating-viability-map-v2/maps/South-Dublin.html %}
 
-[maps/South-Dublin.png](/assets/images/2021-07-22-district-heating-viability-map-v2/maps/South-Dublin.png)
+[South-Dublin.jpg](/assets/images/2021-07-22-district-heating-viability-map-v2/South-Dublin.jpg)
 
 ## Caveats
 
