@@ -1,6 +1,6 @@
 ---
 title: "District Heating Viability v2"
-date: 2021-07-22
+date: 2021-08-12
 categories:
   - map
 tags:
@@ -16,36 +16,35 @@ These maps were created using SEAI's small-level BER data (`05/2021`) & the Valu
 
 ## Dublin City
 
-{% include 2021-07-22-district-heating-viability-map-v2/tables/Dublin-City.html %}
+{% include 2021-08-12-district-heating-viability-map-v2/tables/Dublin-City.html %}
 
+{% include 2021-08-12-district-heating-viability-map-v2/maps/Dublin-City.html %}
 
-{% include 2021-07-22-district-heating-viability-map-v2/maps/Dublin-City.html %}
-
-[Dublin-City.jpg](/assets/images/2021-07-22-district-heating-viability-map-v2/Dublin-City.jpg)
+[Dublin-City.jpg](/assets/images/2021-08-12-district-heating-viability-map-v2/Dublin-City.png)
 
 ## Dún Laoghaire-Rathdown
 
-{% include 2021-07-22-district-heating-viability-map-v2/tables/Dun-Laoghaire-Rathdown.html %}
+{% include 2021-08-12-district-heating-viability-map-v2/tables/Dun-Laoghaire-Rathdown.html %}
 
-{% include 2021-07-22-district-heating-viability-map-v2/maps/Dun-Laoghaire-Rathdown.html %}
+{% include 2021-08-12-district-heating-viability-map-v2/maps/Dun-Laoghaire-Rathdown.html %}
 
-[Dun-Laoghaire-Rathdown.jpg](/assets/images/2021-07-22-district-heating-viability-map-v2/Dun-Laoghaire-Rathdown.jpg)
+[Dun-Laoghaire-Rathdown.jpg](/assets/images/2021-08-12-district-heating-viability-map-v2/Dun-Laoghaire-Rathdown.png)
 
 ## Fingal
 
-{% include 2021-07-22-district-heating-viability-map-v2/tables/Fingal.html %}
+{% include 2021-08-12-district-heating-viability-map-v2/tables/Fingal.html %}
 
-{% include 2021-07-22-district-heating-viability-map-v2/maps/Fingal.html %}
+{% include 2021-08-12-district-heating-viability-map-v2/maps/Fingal.html %}
 
-[Fingal.jpg](/assets/images/2021-07-22-district-heating-viability-map-v2/Fingal.jpg)
+[Fingal.jpg](/assets/images/2021-08-12-district-heating-viability-map-v2/Fingal.png)
 
 ## South Dublin
 
-{% include 2021-07-22-district-heating-viability-map-v2/tables/South-Dublin.html %}
+{% include 2021-08-12-district-heating-viability-map-v2/tables/South-Dublin.html %}
 
-{% include 2021-07-22-district-heating-viability-map-v2/maps/South-Dublin.html %}
+{% include 2021-08-12-district-heating-viability-map-v2/maps/South-Dublin.html %}
 
-[South-Dublin.jpg](/assets/images/2021-07-22-district-heating-viability-map-v2/South-Dublin.jpg)
+[South-Dublin.jpg](/assets/images/2021-08-12-district-heating-viability-map-v2/South-Dublin.png)
 
 ## Caveats
 
@@ -56,10 +55,10 @@ These maps were created using SEAI's small-level BER data (`05/2021`) & the Valu
 ```
 Commercial heat demand
 = fossil fuel energy benchmark [kWh/year.m^2]
-* assumed boiler efficiency of 90%
+* assumed boiler efficiency of 85%
 * floor area [m^2]
 + industrial space heat energy benchmark [kWh/year.m^2]
-* assumed boiler efficiency of 90%
+* assumed boiler efficiency of 85%
 * floor area [m^2]
 ```
 - Buildings with 0 fossil fuel demand are assumed to have no heat demand.
@@ -71,5 +70,3 @@ Residential heat demand = SUM(Main & Supplementary Space & Hot Water Demand [kWh
 ```
 - SEAI's DEAP model is representative of actual heat demands.  In reality, DEAP tends to overestimate demands in older buildings it  and underestimate it in newer.
 - Unknown buildings are well represented by archetypes. These archetypes were created by filling unknown buildings iteratively with a sample of nearby, known buildings with a sample size of greater than 30.  So if there is enough buildings of the same `Small Area` and `Period Built` this average is used, otherwise `Electoral District`, then `Postcode`, and finally `Period Built`.
-    
-    
