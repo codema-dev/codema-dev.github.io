@@ -5,6 +5,7 @@ categories:
   - map
 tags:
   - Bokeh
+  - Electricity
 layout: splash
 read_time: false
 ---
@@ -14,7 +15,9 @@ This map of car ownership was created using data from the 2016 Census provided b
 - Not within 2km of the perimeter of a small town - continuous and discontinuous urban fabric layers of high density were used to define the boundary of small town equivalent
 - Not located in an environmentally sensitive area (e.g. SAC, SPA, NHA)
 - Not located within woodland areas or within 200m of woodland areas
-- Located in areas with optimal wind speeds (greater than 8m/s assuming a 75m hub height)
+- Located in areas with optimal wind speeds (greater than 8m/s assuming a 75m hub height) - Dataset available at (https://data.gov.ie/dataset/mean-offshore-wind-speed-2003-height-75m-above-mean-sea-level?package_type=dataset)
 - Not within 500m of any residential area or within a minimum distance of four times the turbine height from any home - locations of individual homes were not known at the time of writing this report but potential to use the Council’s geodirectory data could be used to model this more accurately, if available.
+
+## Dublin
 
 {% include 2021-08-10-onshore-wind-sites.html %}
