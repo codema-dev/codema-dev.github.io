@@ -43,7 +43,7 @@ These maps were created using SEAI's small-level BER data (`05/2021`) & the Valu
 
 {% include 2021-08-12-district-heating-viability-map-v2/maps/Dublin-City.html %}
 
-[Dublin-City.jpg](/assets/images/2021-08-12-district-heating-viability-map-v2/Dublin-City.png)
+[Dublin-City.jpg](/assets/images/2021-08-12-district-heating-viability-map-v2/Dublin-City.jpg)
 
 ## Dún Laoghaire-Rathdown
 
@@ -51,7 +51,7 @@ These maps were created using SEAI's small-level BER data (`05/2021`) & the Valu
 
 {% include 2021-08-12-district-heating-viability-map-v2/maps/Dun-Laoghaire-Rathdown.html %}
 
-[Dun-Laoghaire-Rathdown.jpg](/assets/images/2021-08-12-district-heating-viability-map-v2/Dun-Laoghaire-Rathdown.png)
+[Dun-Laoghaire-Rathdown.jpg](/assets/images/2021-08-12-district-heating-viability-map-v2/Dun-Laoghaire-Rathdown.jpg)
 
 ## Fingal
 
@@ -59,7 +59,7 @@ These maps were created using SEAI's small-level BER data (`05/2021`) & the Valu
 
 {% include 2021-08-12-district-heating-viability-map-v2/maps/Fingal.html %}
 
-[Fingal.jpg](/assets/images/2021-08-12-district-heating-viability-map-v2/Fingal.png)
+[Fingal.jpg](/assets/images/2021-08-12-district-heating-viability-map-v2/Fingal.jpg)
 
 ## South Dublin
 
@@ -67,7 +67,7 @@ These maps were created using SEAI's small-level BER data (`05/2021`) & the Valu
 
 {% include 2021-08-12-district-heating-viability-map-v2/maps/South-Dublin.html %}
 
-[South-Dublin.jpg](/assets/images/2021-08-12-district-heating-viability-map-v2/South-Dublin.png)
+[South-Dublin.jpg](/assets/images/2021-08-12-district-heating-viability-map-v2/South-Dublin.jpg)
 
 ## Caveats
 
