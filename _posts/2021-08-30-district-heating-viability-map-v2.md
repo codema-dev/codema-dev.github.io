@@ -14,7 +14,9 @@ These maps were created using SEAI's small-level BER data (`05/2021`) & the Valu
 
 {% assign benchmarks_csv="https://codema-dev.s3.eu-west-1.amazonaws.com/benchmarks.csv" %}
 
-**Download:** [dublin_small_area_heat_demand.zip](https://codema-dev.s3.eu-west-1.amazonaws.com/dublin_small_area_heat_demand.zip)
+**Download:**
+- Data - [dublin_small_area_heat_demand.zip](https://codema-dev.s3.eu-west-1.amazonaws.com/dublin_small_area_heat_demand.zip)
+- Images - [dublin_small_area_heat_demand.zip](/assets/images/2021-08-30-district-heating-viability-map-v2.zip)
 
 ## Overview by Building Type 
 
@@ -42,15 +44,11 @@ These maps were created using SEAI's small-level BER data (`05/2021`) & the Valu
 
 {% include 2021-08-30-district-heating-viability-map-v2/Map-Dublin-City.html %}
 
-[Dublin-City.zip](/assets/images/2021-08-30-district-heating-viability-map-v2/Dublin-City.zip)
-
 ## Dún Laoghaire-Rathdown
 
 {% include 2021-08-30-district-heating-viability-map-v2/Glossary-Dun-Laoghaire-Rathdown.html %}
 
 {% include 2021-08-30-district-heating-viability-map-v2/Map-Dun-Laoghaire-Rathdown.html %}
-
-[Dun-Laoghaire-Rathdown.zip](/assets/images/2021-08-30-district-heating-viability-map-v2/Dun-Laoghaire-Rathdown.zip)
 
 ## Fingal
 
@@ -58,15 +56,11 @@ These maps were created using SEAI's small-level BER data (`05/2021`) & the Valu
 
 {% include 2021-08-30-district-heating-viability-map-v2/Map-Fingal.html %}
 
-[Fingal.zip](/assets/images/2021-08-30-district-heating-viability-map-v2/Fingal.zip)
-
 ## South Dublin
 
 {% include 2021-08-30-district-heating-viability-map-v2/Glossary-South-Dublin.html %}
 
 {% include 2021-08-30-district-heating-viability-map-v2/Map-South-Dublin.html %}
-
-[South-Dublin.zip](/assets/images/2021-08-30-district-heating-viability-map-v2/South-Dublin.zip)
 
 ## Caveats
 
