@@ -66,6 +66,7 @@ These maps were created using SEAI's small-level BER data (`05/2021`) & the Valu
 
 - Public Sector Building demand isn't included as it currently isn't possible to locate all buildings within Small Areas as the data is at postcode level
 - Buildings with floor areas much larger than expected for the use type were removed.  See [benchmarks.csv]({{ benchmarks_csv }}) for benchmark properties.
+- Process heat >100°C is not included in these maps. We can have a seperate map showing the process heat hot spots.
 
 ## Assumptions
 
