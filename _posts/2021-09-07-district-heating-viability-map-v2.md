@@ -14,17 +14,11 @@ These maps were created using SEAI's small-level BER data (`05/2021`) & the Valu
 
 {% assign benchmarks_csv="https://codema-dev.s3.eu-west-1.amazonaws.com/benchmarks.csv" %}
 
-**Download:**
-- Data - [dublin_small_area_heat_demand.zip](https://codema-dev.s3.eu-west-1.amazonaws.com/dublin_small_area_heat_demand.zip)
-- Images - [district-heating-viability-map-v2.zip](/assets/images/district-heating-viability-map-v2.zip)
-
 ## Overview by Building Type 
 
 ### Non-Residential
 
 {% include district-heating-viability-map-v2/non_residential_pie_mwh_per_y.html %}
-
-> See [benchmarks.csv]({{ benchmarks_csv }}) for benchmark properties
 
 ### Residential
 
@@ -64,8 +58,8 @@ These maps were created using SEAI's small-level BER data (`05/2021`) & the Valu
 
 ## Caveats
 
-- Public Sector Building demand isn't included as it currently isn't possible to locate all buildings within Small Areas as the data is at postcode level
-- Buildings with floor areas much larger than expected for the use type were removed.  See [benchmarks.csv]({{ benchmarks_csv }}) for benchmark properties.
+- Public Sector Building demand isn't included as it currently isn't possible to locate all buildings within Small Areas as the data is at postcode level.
+- Buildings with floor areas much larger than expected for the use type were removed.
 - Process heat >100°C is not included in these maps. We can have a seperate map showing the process heat hot spots.
 
 ## Assumptions
@@ -81,7 +75,7 @@ Commercial heat demand
 ```
 - Buildings with 0 fossil fuel demand are assumed to have no heat demand.
 - `CIBSE TM46` & `CIBSE Guide F` floor area energy benchmarks are reflective of current Dublin commercial building demands
-- All buildings within each energy benchmark category are well represented by this category.  See [benchmarks.zip](https://codema-dev.s3.eu-west-1.amazonaws.com/benchmarks.zip) for use categories linked to benchmarks and [benchmarks.csv]({{ benchmarks_csv }}) for benchmark properties
+- All buildings within each energy benchmark category are well represented by this category.
 
 
 ```
@@ -89,3 +83,10 @@ Residential heat demand = SUM(Main & Supplementary Space & Hot Water Demand [kWh
 ```
 - SEAI's DEAP model is representative of actual heat demands.  In reality, DEAP tends to overestimate demands in older buildings it  and underestimate it in newer.
 - Unknown buildings are well represented by archetypes. These archetypes were created by filling unknown buildings iteratively with a sample of nearby, known buildings with a sample size of greater than 30.  So if there is enough buildings of the same `Small Area` and `Period Built` this average is used, otherwise `Electoral District`, then `Postcode`, and finally `Period Built`.
+
+## Download
+
+- [dublin_small_area_heat_demand.zip](https://codema-dev.s3.eu-west-1.amazonaws.com/dublin_small_area_heat_demand.zip) - small area demand data 
+- [district-heating-viability-map-v2.zip](/assets/images/district-heating-viability-map-v2.zip) - images of Maps & Tables 
+- [benchmarks.csv](https://codema-dev.s3.eu-west-1.amazonaws.com/benchmarks.csv) - commercial building energy benchmarks
+- [benchmarks.zip](https://codema-dev.s3.eu-west-1.amazonaws.com/benchmarks.zip) - commercial energy benchmark categories linked to valuation office uses 
