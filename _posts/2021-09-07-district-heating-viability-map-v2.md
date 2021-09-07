@@ -1,6 +1,6 @@
 ---
 title: "District Heating Viability v2"
-date: 2021-08-12
+date: 2021-09-07
 categories:
   - map
 tags:
@@ -16,13 +16,13 @@ These maps were created using SEAI's small-level BER data (`05/2021`) & the Valu
 
 **Download:**
 - Data - [dublin_small_area_heat_demand.zip](https://codema-dev.s3.eu-west-1.amazonaws.com/dublin_small_area_heat_demand.zip)
-- Images - [dublin_small_area_heat_demand.zip](/assets/images/2021-08-30-district-heating-viability-map-v2.zip)
+- Images - [district-heating-viability-map-v2.zip](/assets/images/district-heating-viability-map-v2.zip)
 
 ## Overview by Building Type 
 
 ### Non-Residential
 
-{% include 2021-08-30-district-heating-viability-map-v2/non_residential_pie_mwh_per_y.html %}
+{% include district-heating-viability-map-v2/non_residential_pie_mwh_per_y.html %}
 
 > See [benchmarks.csv]({{ benchmarks_csv }}) for benchmark properties
 
@@ -35,32 +35,32 @@ These maps were created using SEAI's small-level BER data (`05/2021`) & the Valu
 |     ...      |      ...      |
 |     11L      | 2011 or Later |
 
-{% include 2021-08-30-district-heating-viability-map-v2/residential_pie_mwh_per_y.html %}
+{% include district-heating-viability-map-v2/residential_pie_mwh_per_y.html %}
 
 
 ## Dublin City
 
-{% include 2021-08-30-district-heating-viability-map-v2/Glossary-Dublin-City.html %}
+{% include district-heating-viability-map-v2/Glossary-Dublin-City.html %}
 
-{% include 2021-08-30-district-heating-viability-map-v2/Map-Dublin-City.html %}
+{% include district-heating-viability-map-v2/Map-Dublin-City.html %}
 
 ## Dún Laoghaire-Rathdown
 
-{% include 2021-08-30-district-heating-viability-map-v2/Glossary-Dun-Laoghaire-Rathdown.html %}
+{% include district-heating-viability-map-v2/Glossary-Dun-Laoghaire-Rathdown.html %}
 
-{% include 2021-08-30-district-heating-viability-map-v2/Map-Dun-Laoghaire-Rathdown.html %}
+{% include district-heating-viability-map-v2/Map-Dun-Laoghaire-Rathdown.html %}
 
 ## Fingal
 
-{% include 2021-08-30-district-heating-viability-map-v2/Glossary-Fingal.html %}
+{% include district-heating-viability-map-v2/Glossary-Fingal.html %}
 
-{% include 2021-08-30-district-heating-viability-map-v2/Map-Fingal.html %}
+{% include district-heating-viability-map-v2/Map-Fingal.html %}
 
 ## South Dublin
 
-{% include 2021-08-30-district-heating-viability-map-v2/Glossary-South-Dublin.html %}
+{% include district-heating-viability-map-v2/Glossary-South-Dublin.html %}
 
-{% include 2021-08-30-district-heating-viability-map-v2/Map-South-Dublin.html %}
+{% include district-heating-viability-map-v2/Map-South-Dublin.html %}
 
 ## Caveats
 
