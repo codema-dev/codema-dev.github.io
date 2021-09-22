@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 date: 2021-09-22
 title: How to link this website to an existing map
 categories: blog
