@@ -33,6 +33,10 @@ tags:
 
 <img width="796" alt="setup-github-pages" src="https://user-images.githubusercontent.com/50016440/134355351-ac486234-821e-4d19-bb76-b2beaa262575.png">
 
-- When you're happy with your edits go to [website's Github](https://github.com/rdmolony/codema-dev.github.io) and accept "Would you like to submit a Pull Request" prompt, or click `Pull Request` on the toolbar and select your branch.
+- When you're happy with your edits go to [website's Github](https://github.com/rdmolony/codema-dev.github.io) and accept the "Would you like to submit a Pull Request" prompt
+
+> Or click `Pull Requests` > `New Pull Request` > `compare across forks` and select your fork for `head repository` and your branch for `compare` and finally `Create Pull Request`
+
+<img width="933" alt="create-pull-request-zoomed" src="https://user-images.githubusercontent.com/50016440/134357269-71aa5d74-5f3f-46de-b735-55dc561a826d.png">
 
 - After a final review of the post, merge the changes in and delete your branch if you like!
