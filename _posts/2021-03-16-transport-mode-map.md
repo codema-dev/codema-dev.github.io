@@ -1,14 +1,15 @@
 ---
-title: "Transport Mode Map"
-date: 2021-03-16
+title: Transport Mode Map
+date: 2021-03-16 00:00:00 Z
 categories:
-  - map
+- map
 tags:
-  - Tableau
-  - Transport
+- Tableau
+- Transport
 layout: splash
 read_time: false
 ---
+
 This map was created using outputs from National Transport Authority's East Regional Model.
 
 <div class='tableauPlaceholder' id='viz1615884184147' style='position: relative'><noscript><a href='#'><img alt=' '

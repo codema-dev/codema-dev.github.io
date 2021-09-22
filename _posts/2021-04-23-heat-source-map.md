@@ -1,15 +1,16 @@
 ---
-title: "Waste Heat Source Map"
-date: 2021-04-23
+title: Waste Heat Source Map
+date: 2021-04-23 00:00:00 Z
 categories:
-  - map
+- map
 tags:
-  - Bokeh
-  - Buildings
-  - Heat
+- Bokeh
+- Buildings
+- Heat
 layout: splash
 read_time: false
 ---
+
 This map of waste heat source potential in Dublin was created with the help of: 
 
 | Organisation | Data |

@@ -1,14 +1,15 @@
 ---
-title: "Substation Capacity Map"
-date: 2021-04-07
+title: Substation Capacity Map
+date: 2021-04-07 00:00:00 Z
 categories:
-  - map
+- map
 tags:
-  - Bokeh
-  - Electricity
+- Bokeh
+- Electricity
 layout: splash
 read_time: false
 ---
+
 A map of Medium Voltage (MV) substation clusters.  It was created by grouping similarly located MV substations using data from the ESB Substation Capacity
 map [here](https://www.esbnetworks.ie/new-connections/generator-connections-group/availability-capacity-map) or [here](https://www.esbnetworks.ie/network-capacity-map)
 

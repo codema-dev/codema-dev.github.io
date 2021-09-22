@@ -1,11 +1,11 @@
 ---
-title: "Housing Occupancy"
-date: 2021-05-18
+title: Housing Occupancy
+date: 2021-05-18 00:00:00 Z
 categories:
-  - map
+- map
 tags:
-  - Bokeh
-  - Buildings
+- Bokeh
+- Buildings
 layout: splash
 read_time: false
 ---

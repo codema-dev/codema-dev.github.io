@@ -1,14 +1,15 @@
 ---
-title: "Public Sector Electricity & Gas Demand"
-date: 2021-04-07
+title: Public Sector Electricity & Gas Demand
+date: 2021-04-07 00:00:00 Z
 categories:
-  - data
+- data
 tags:
-  - datasette
-  - Electricity
+- datasette
+- Electricity
 layout: splash
 read_time: false
 ---
+
 Meter Point Reference Number (MPRN) & Gas Point Reference Number (GPRN) data for all Dublin public sector buildings. 
 
 <div class="glitch-embed-wrap" style="height: 2000px; width: 100%;">

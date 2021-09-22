@@ -1,14 +1,15 @@
 ---
-title: "Viable Utility Scale Onshore Wind"
-date: 2021-08-10
+title: Viable Utility Scale Onshore Wind
+date: 2021-08-10 00:00:00 Z
 categories:
-  - map
+- map
 tags:
-  - Bokeh
-  - Viability
+- Bokeh
+- Viability
 layout: splash
 read_time: false
 ---
+
 Displays areas suitable for utility scale wind under the specified constraints.  Created using data provided by `data.gov`:
 
 - [mean-offshore-wind-speed-2003-height-75m-above-mean-sea-level](https://data.gov.ie/dataset/mean-offshore-wind-speed-2003-height-75m-above-mean-sea-level?package_type=dataset)

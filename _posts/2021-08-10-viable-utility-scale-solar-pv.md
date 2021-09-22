@@ -1,14 +1,15 @@
 ---
-title: "Viable Utility Scale Solar PV Sites"
-date: 2021-08-10
+title: Viable Utility Scale Solar PV Sites
+date: 2021-08-10 00:00:00 Z
 categories:
-  - map
+- map
 tags:
-  - Bokeh
-  - Viability
+- Bokeh
+- Viability
 layout: splash
 read_time: false
 ---
+
 Displays areas suitable for utility scale solar under the specified constraints.  Created using data provided by `europa` and `data.gov`:
 
 - [urban-atlas](https://data.europa.eu/data/datasets/data_urban-atlas?locale=en) 

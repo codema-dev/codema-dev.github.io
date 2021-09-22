@@ -1,14 +1,15 @@
 ---
-title: "Deprivation Index"
-date: 2021-02-24
+title: Deprivation Index
+date: 2021-02-24 00:00:00 Z
 categories:
-  - map
+- map
 tags:
-  - Tableau
-  - Buildings
+- Tableau
+- Buildings
 layout: splash
 read_time: false
 ---
+
 This map was created using open-access SEAI postcode-level BER data and CSO electoral district Census 2016 population data.
 
 <div class='tableauPlaceholder' id='viz1614092242319' style='position: relative'>
