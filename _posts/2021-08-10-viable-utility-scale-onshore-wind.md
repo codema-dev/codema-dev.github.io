@@ -14,7 +14,9 @@ Displays areas suitable for utility scale wind under the specified constraints. 
 
 - [mean-offshore-wind-speed-2003-height-75m-above-mean-sea-level](https://data.gov.ie/dataset/mean-offshore-wind-speed-2003-height-75m-above-mean-sea-level?package_type=dataset)
 
-{% include 2021-08-10-viable-utility-scale-onshore-wind.html %}
+<div class="holds-the-iframe">
+    <iframe width="100%" height="1100px" src="https://codema-dev.s3.eu-west-1.amazonaws.com/views/2021_08_10_viable_utility_scale_onshore_wind_map.html" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ## Constraints
 

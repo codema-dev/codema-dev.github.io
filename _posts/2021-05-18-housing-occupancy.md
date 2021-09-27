@@ -14,4 +14,6 @@ This map of mean dwelling occupancy was created using the open-access Small-Area
 
 > Mean dwelling occupancy was calculated by dividing the total number of occupants per household (`"T6_3_TP" or "Total Persons"`) by the total number of dwellings (`"T6_3_TH" or "Total"`) in each Small Area. The colourbar legend represents the mean number of occupants per dwelling in each Small Area where red and green indicate a higher and lower number of occupants respectively. 
 
-{% include 2021-05-18-housing-occupancy.html %}
+<div class="holds-the-iframe">
+    <iframe width="100%" height="1100px" src="https://codema-dev.s3.eu-west-1.amazonaws.com/views/2021_05_18_housing_occupancy_map.html" frameborder="0" allowfullscreen></iframe>
+</div>

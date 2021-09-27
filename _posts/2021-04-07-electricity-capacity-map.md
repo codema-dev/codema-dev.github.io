@@ -19,4 +19,6 @@ map [here](https://www.esbnetworks.ie/new-connections/generator-connections-grou
 - `SLR` stands for [Special Load Reading](https://www.esbnetworks.ie/publications) which  are a coincident set of measurements of simultaneous load for all distribution substations taken each year on a single day by the ESB in both summer and winter.
 - In most zones `Demand Available + SLR Load` is not equal to `Installed Capacity`, on average this sum is around 60% of installed capacity for each substation.
 
-{% include 2021-04-07-electricity-capacity-map.html %}
+<div class="holds-the-iframe">
+    <iframe width="100%" height="1000px" src="https://codema-dev.s3.eu-west-1.amazonaws.com/views/2021_04_07_medium_voltage_electricity_substation_capacity_map.html" frameborder="0" allowfullscreen></iframe>
+</div>
