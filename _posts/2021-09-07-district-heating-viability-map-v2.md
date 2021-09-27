@@ -13,13 +13,41 @@ read_time: false
 
 These maps were created using SEAI's small-level BER data (`05/2021`) & the Valuation Office's floor areas (`2021`).  The code used to generate them is open-source and available [here](https://github.com/codema-dev/projects), however, as the data is closed-access they are not reproducible without access to the underlying data.
 
-{% assign benchmarks_csv="https://codema-dev.s3.eu-west-1.amazonaws.com/benchmarks.csv" %}
+## Dublin City
+
+<div class="holds-the-iframe">
+    <iframe width="100%" height="250px" src="https://codema-dev.s3.eu-west-1.amazonaws.com/views/2021_09_07_district_heating_viability_map_v2/Glossary-Dublin-City.html" frameborder="0" allowfullscreen></iframe>
+    <iframe width="100%" height="1000px" src="https://codema-dev.s3.eu-west-1.amazonaws.com/views/2021_09_07_district_heating_viability_map_v2/Map-Dublin-City.html" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## Dún Laoghaire-Rathdown
+
+<div class="holds-the-iframe">
+    <iframe width="100%" height="250px" src="https://codema-dev.s3.eu-west-1.amazonaws.com/views/2021_09_07_district_heating_viability_map_v2/Glossary-Dun-Laoghaire-Rathdown.html" frameborder="0" allowfullscreen></iframe>
+    <iframe width="100%" height="1000px" src="https://codema-dev.s3.eu-west-1.amazonaws.com/views/2021_09_07_district_heating_viability_map_v2/Map-Dun-Laoghaire-Rathdown.html" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## Fingal
+
+<div class="holds-the-iframe">
+    <iframe width="100%" height="250px" src="https://codema-dev.s3.eu-west-1.amazonaws.com/views/2021_09_07_district_heating_viability_map_v2/Glossary-Fingal.html" frameborder="0" allowfullscreen></iframe>
+    <iframe width="100%" height="1000px" src="https://codema-dev.s3.eu-west-1.amazonaws.com/views/2021_09_07_district_heating_viability_map_v2/Map-Fingal.html" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## South Dublin
+
+<div class="holds-the-iframe">
+    <iframe width="100%" height="250px" src="https://codema-dev.s3.eu-west-1.amazonaws.com/views/2021_09_07_district_heating_viability_map_v2/Glossary-South-Dublin.html" frameborder="0" allowfullscreen></iframe>
+    <iframe width="100%" height="1000px" src="https://codema-dev.s3.eu-west-1.amazonaws.com/views/2021_09_07_district_heating_viability_map_v2/Map-South-Dublin.html" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ## Overview by Building Type 
 
 ### Non-Residential
 
-{% include district-heating-viability-map-v2/non_residential_pie_mwh_per_y.html %}
+<div class="holds-the-iframe">
+    <iframe width="100%" height="500px" src="https://codema-dev.s3.eu-west-1.amazonaws.com/views/2021_09_07_district_heating_viability_map_v2/Piechart-Non-Residential-MWh.html" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ### Residential
 
@@ -30,32 +58,9 @@ These maps were created using SEAI's small-level BER data (`05/2021`) & the Valu
 |     ...      |      ...      |
 |     11L      | 2011 or Later |
 
-{% include district-heating-viability-map-v2/residential_pie_mwh_per_y.html %}
-
-
-## Dublin City
-
-{% include district-heating-viability-map-v2/Glossary-Dublin-City.html %}
-
-{% include district-heating-viability-map-v2/Map-Dublin-City.html %}
-
-## Dún Laoghaire-Rathdown
-
-{% include district-heating-viability-map-v2/Glossary-Dun-Laoghaire-Rathdown.html %}
-
-{% include district-heating-viability-map-v2/Map-Dun-Laoghaire-Rathdown.html %}
-
-## Fingal
-
-{% include district-heating-viability-map-v2/Glossary-Fingal.html %}
-
-{% include district-heating-viability-map-v2/Map-Fingal.html %}
-
-## South Dublin
-
-{% include district-heating-viability-map-v2/Glossary-South-Dublin.html %}
-
-{% include district-heating-viability-map-v2/Map-South-Dublin.html %}
+<div class="holds-the-iframe">
+    <iframe width="100%" height="500px" src="https://codema-dev.s3.eu-west-1.amazonaws.com/views/2021_09_07_district_heating_viability_map_v2/Piechart-Residential-MWh.html" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ## Caveats
 

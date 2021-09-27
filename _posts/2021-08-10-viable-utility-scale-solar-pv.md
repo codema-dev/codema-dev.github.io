@@ -15,7 +15,9 @@ Displays areas suitable for utility scale solar under the specified constraints.
 - [urban-atlas](https://data.europa.eu/data/datasets/data_urban-atlas?locale=en) 
 - [digital-elevation-model-of-ireland-from-nasas-shuttle-radar-topography-mission-srtm](https://data.gov.ie/dataset/digital-elevation-model-of-ireland-from-nasas-shuttle-radar-topography-mission-srtm)
 
-{% include 2021-08-10-viable-utility-scale-solar-pv.html %}
+<div class="holds-the-iframe">
+    <iframe width="100%" height="1100px" src="https://codema-dev.s3.eu-west-1.amazonaws.com/views/2021_08_10_viable_utility_scale_solar_pv_map.html" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ## Constraints
 

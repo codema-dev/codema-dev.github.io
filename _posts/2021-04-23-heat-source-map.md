@@ -24,4 +24,6 @@ This map of waste heat source potential in Dublin was created with the help of:
 | ESB | Electrical transformers, heat pumps |
 | Geological Survey Ireland | Deep geothermal |
 
-{% include 2021-04-23-heat-source-map.html %}
+<div class="holds-the-iframe">
+    <iframe width="100%" height="750px" src="https://codema-dev.s3.eu-west-1.amazonaws.com/views/2021_04_23_waste_heat_source_map.html" frameborder="0" allowfullscreen></iframe>
+</div>

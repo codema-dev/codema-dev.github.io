@@ -14,4 +14,6 @@ This map is based on the outputs of the `National Transport Authority of Ireland
 
 > For illustrative purposes, values have been split into eight seperate equal portions, as per their carbon emissions, and a colour has been assigned to them accordingly. Individual road emisisons can be obtained by hovering over a specific location.  
 
-{% include 2021-06-02-road-transport-emisions.html %}
+<div class="holds-the-iframe">
+    <iframe width="100%" height="1000px" src="https://codema-dev.s3.eu-west-1.amazonaws.com/views/2021_06_02_road_transport_emissions_map.html" frameborder="0" allowfullscreen></iframe>
+</div>
