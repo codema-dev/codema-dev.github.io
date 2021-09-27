@@ -90,9 +90,9 @@ Residential heat demand = SUM(Main & Supplementary Space & Hot Water Demand [kWh
 - SEAI's DEAP model is representative of actual heat demands.  In reality, DEAP tends to overestimate demands in older buildings it  and underestimate it in newer.
 - Unknown buildings are well represented by archetypes. These archetypes were created by filling unknown buildings iteratively with a sample of nearby, known buildings with a sample size of greater than 30.  So if there is enough buildings of the same `Small Area` and `Period Built` this average is used, otherwise `Electoral District`, then `Postcode`, and finally `Period Built`.
 
-## Download
+## Download Data
 
-- [dublin_small_area_heat_demand.zip](https://codema-dev.s3.eu-west-1.amazonaws.com/dublin_small_area_heat_demand.zip) - small area demand data 
-- [district-heating-viability-map-v2.zip](/assets/images/district-heating-viability-map-v2.zip) - images of Maps & Tables 
-- [benchmarks.csv](https://codema-dev.s3.eu-west-1.amazonaws.com/benchmarks.csv) - commercial building energy benchmarks
-- [benchmarks.zip](https://codema-dev.s3.eu-west-1.amazonaws.com/benchmarks.zip) - commercial energy benchmark categories linked to valuation office uses 
+- [dublin_small_area_heat_demand.zip](https://codema-dev.s3.eu-west-1.amazonaws.com/views/2021_09_07_district_heating_viability_map_data.zip) - small area demand data 
+- [district-heating-viability-map-v2.zip](https://codema-dev.s3.eu-west-1.amazonaws.com/views/2021_09_07_district_heating_viability_map_images.zip) - images of maps & tables 
+- [benchmarks.csv](https://codema-dev.s3.eu-west-1.amazonaws.com/views/2021_09_24_commercial_floor_area_energy_benchmarks.csv) - commercial building floor area energy benchmarks
+- [benchmarks.zip](https://codema-dev.s3.eu-west-1.amazonaws.com/views/2021_09_24_commercial_floor_area_energy_benchmarks_linked_to_valuation_office_uses.zip) - commercial building energy benchmark categories linked to valuation office uses 
