@@ -17,4 +17,4 @@ This map was created by using SEAI's small-level BER data (`07/2020`), Monitorin
 
 <script src="https://gist.github.com/rdmolony/23224c5defdcd63d2c020e779d913fcf.js"></script>
 
-{% include 2021-04-23-district-heating-viability-map-v1.html %}
+<iframe width="100%" height="1000px" src="https://codema-dev.s3.eu-west-1.amazonaws.com/views/2021_04_23_district_heating_viability_map_v1.html" frameborder="0" allowfullscreen></iframe>
