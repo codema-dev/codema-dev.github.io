@@ -17,7 +17,7 @@ tags:
 }
 .alert {
   padding: 20px;
-  background-color: #ffbf00; /* Orange */
+  background-color: #d3d3d3; /* Light Grey */
   color: white;
   margin-bottom: 15px;
 }
@@ -36,7 +36,7 @@ tags:
 <div class="alert">
   <details>
     <summary>Already forked?</summary>
-    Make sure your `gh-pages` branch is up to date with 
+    Make sure your gh-pages branch is up to date
   </details>
 </div>
 
