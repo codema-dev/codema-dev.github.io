@@ -1,13 +1,23 @@
 ---
-layout: posts
-date: 2021-09-22
-title: How to link this website to an existing map
+layout: splash
+date: 2021-10-08
+title: How to add a Tableau Map to this Website
 categories: blog
 tags:
   - tutorial
+  - Tableau
 ---
 
+- Create & publish your map to Tableau Public
+
+- On your Tableau Public map click `Share`, copy the `HTML` in `Embed Code` and paste it to [htmlbeautify](https://htmlbeautify.com/) - you can now copy & paste this code to the website
+
 - Fork the [website's Github](https://github.com/rdmolony/codema-dev.github.io) (see [here](https://guides.github.com/activities/forking/)) - this creates a copy of the website just for you. 
+
+<details>
+  <summary>Already forked?</summary>
+Make sure your `gh-pages` branch is up to date by clicking `Fetch upstream`
+</details>
 
 <img width="259" alt="fork" src="https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png">
 
@@ -21,7 +31,7 @@ tags:
 
 - Create a new file called `YYYY-MM-DD-filename.md` (ex: `2021-09-22-marine-atlas.md`) and add your content.  
 
-> The section between the `---` symbols defines the metadata about your page (see [here](https://jekyllrb.com/docs/front-matter/) for options, [here](https://mmistakes.github.io/minimal-mistakes/year-archive/) for sample posts and [here](https://github.com/mmistakes/minimal-mistakes/tree/master/docs/_posts) for the sample posts Github)
+> The section between the `---` symbols defines the metadata about your page (copy & paste the metadata [from another post](https://github.com/codema-dev/codema-dev.github.io/tree/gh-pages/_posts), or for more information see [here](https://jekyllrb.com/docs/front-matter/) for options, [here](https://mmistakes.github.io/minimal-mistakes/year-archive/) for sample posts and [here](https://github.com/mmistakes/minimal-mistakes/tree/master/docs/_posts) for the sample posts Github)
 
 <img width="950" alt="add-content-zoomed" src="https://user-images.githubusercontent.com/50016440/134348872-a5d05e78-9dea-435a-9b51-0b0dea4c9b9e.png">
 
